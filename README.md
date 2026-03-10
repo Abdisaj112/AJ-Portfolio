@@ -106,12 +106,12 @@ aj-portfolio/
 │   └── ...
 ├── src/
 │   ├── components/      # React components
-│   │   ├── Hero.tsx
-│   │   ├── About.tsx
-│   │   ├── Projects.tsx
-│   │   ├── Skills.tsx
-│   │   ├── Experience.tsx
-│   │   ├── Contact.tsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Contact.jsx
 │   │   └── ...
 │   ├── assets/          # Images and icons
 │   ├── App.tsx          # Main app component
