@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # AJ Portfolio
 
 Personal portfolio website for Abdisa Jemal - Full-Stack Developer
