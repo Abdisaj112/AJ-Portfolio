@@ -1,0 +1,16 @@
+{
+  "name": "Abdisa Jemal Portfolio",
+  "short_name": "AJ Portfolio",
+  "description": "Full-Stack Developer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#8B5CF6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
