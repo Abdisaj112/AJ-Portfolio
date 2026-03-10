@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AJ Portfolio
 
 Personal portfolio website for Abdisa Jemal - Full-Stack Developer
@@ -189,3 +190,17 @@ Built with ❤️ by Abdisa Jemal
 🚀 Abdisa Jemal Portfolio  
 This repository contains my personal portfolio website showcasing my projects, skills, and experience as a Computer Science student and aspiring web developer. The portfolio highlights my work in software development, database systems, and web technologies, along with academic and personal projects.
 >>>>>>> cbeb89d6c8dfbf5bd136fde6fc08f51001d82395
+=======
+# AJ Portfolio
+
+Welcome to my portfolio website.
+
+## About Me
+I am Abdisa Jemal, a Computer Science student at Haramaya University.
+
+## Skills
+- Web Development
+- Python
+- C++
+- Database Systems
+>>>>>>> 5b473751ea24e297ae9db5328de6a533ae0704ff
