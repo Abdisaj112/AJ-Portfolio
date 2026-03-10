@@ -1,3 +1,12 @@
-# AJ-Portfolio
-🚀 Abdisa Jemal Portfolio  
-This repository contains my personal portfolio website showcasing my projects, skills, and experience as a Computer Science student and aspiring web developer. The portfolio highlights my work in software development, database systems, and web technologies, along with academic and personal projects.
+# AJ Portfolio
+
+Welcome to my portfolio website.
+
+## About Me
+I am Abdisa Jemal, a Computer Science student at Haramaya University.
+
+## Skills
+- Web Development
+- Python
+- C++
+- Database Systems
